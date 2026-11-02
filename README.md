@@ -37,4 +37,4 @@ If they fail, the opposing team wins all points for that hand (a result known as
 Winning all 8 tricks (Capot or Štiglja) awards a significant bonus (typically 90 points). 
 
 ## Sample Image
-![Game sample](images/bela-game.png)
+![Game sample](bela-game.png)
